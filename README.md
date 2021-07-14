@@ -227,3 +227,8 @@ Thanks for understanding!
 ### License
 
 The MIT License (see the [LICENSE](https://github.com/rpaschoal/ng-chat/blob/master/LICENSE) file for the full text)
+
+https://medium.com/@debshish.pal/publish-a-npm-package-locally-for-testing-9a00015eb9fd
+https://jasonwatmore.com/post/2020/06/16/angular-npm-how-to-publish-an-angular-component-to-npm
+
+
